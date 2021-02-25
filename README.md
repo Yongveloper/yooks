@@ -9,9 +9,9 @@ Collection of React Hooks
 - [x] useHover
 - [x] useConfirm
 - [x] usePreventLeave
-- [ ] useFadIn
-- [ ] useFullscreen
-- [ ] useNetwork
+- [x] useFadIn
+- [x] useNetwork
+- [x] useScroll
+- [x] useFullscreen
 - [ ] useNotification
-- [ ] useScroll
 - [ ] useAxios
